@@ -1,0 +1,1 @@
+Due to warping of glass strip, some bonds may be stretched already and fail eariler. Account for this if bond strength is lower.
