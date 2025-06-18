@@ -1,0 +1,3 @@
+Limitations:
+Difficult to adjust the strips once pressing down on 1 side - possoible due to geometry of vias interlocking and causing some level of offset
+Strip Cracked, trying new one. Bonded 1 side

@@ -1,0 +1,2 @@
+Bond at low pressure first(10N1min 375C), rotate 90 degrees then bond again.
+Bond on both sides as well, so 2.5 mins each side.

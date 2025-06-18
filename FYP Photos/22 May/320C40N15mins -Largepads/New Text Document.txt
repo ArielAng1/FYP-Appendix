@@ -1,0 +1,3 @@
+Aligned nozzle such that all pads are directly underneath metal, then placed copper film to distribute the pressure more evenly. 
+Don't want to see compression artifacts, can see iridescence because of delamination but not reaching the inner area. 
+Want to see evidence of bonding on all pads, and check strength as well.

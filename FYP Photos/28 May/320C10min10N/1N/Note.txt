@@ -1,0 +1,1 @@
+Well what is good to know is that if a tensile force is applied to the DT strip the first thing that would fail are the springs in the sensor die at 1N.

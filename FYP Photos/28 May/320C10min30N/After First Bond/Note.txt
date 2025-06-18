@@ -1,0 +1,3 @@
+Delamination observed on bottom side. Reduced force to 20N on other side to see 2 things:
+1. If delamination here gets worse
+2. 20N causes delaminations on other side.

@@ -1,0 +1,3 @@
+Bond at low pressure first(10N1min 375C)
+Bond on both sides as well, so 2.5 mins each side.
+Between each bond rotate strips 180 deg.
